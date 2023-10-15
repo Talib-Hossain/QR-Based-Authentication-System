@@ -1,5 +1,5 @@
 # Qr-authenticaation
-* An QR Code based authentication Android Application.
+* An QR Code based authentication Application.
 # Technology Used
 * Java
 * XML
